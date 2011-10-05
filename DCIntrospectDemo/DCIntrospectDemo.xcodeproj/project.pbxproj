@@ -161,7 +161,7 @@
 		AB0D01C7136A778000962171 /* Project object */ = {
 			isa = PBXProject;
 			attributes = {
-				LastUpgradeCheck = 0410;
+				LastUpgradeCheck = 0420;
 			};
 			buildConfigurationList = AB0D01CA136A778000962171 /* Build configuration list for PBXProject "DCIntrospectDemo" */;
 			compatibilityVersion = "Xcode 3.2";
